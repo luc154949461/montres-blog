@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://horlogerie.uk/tendances/retrospective-2017-montres-annee/</loc>
+    <lastmod>2017-12-28</lastmod>
+  </url>
+  <url>
+    <loc>https://horlogerie.uk/portraits/philippe-dufour-solitaire-vallee-de-joux-1sur2/</loc>
+    <lastmod>2017-12-07</lastmod>
+  </url>
+  <url>
+    <loc>https://horlogerie.uk/portraits/nicolas-hayek-stratege-libanais-horlogerie-suisse/</loc>
+    <lastmod>2017-12-06</lastmod>
+  </url>
+  <url>
     <loc>https://horlogerie.uk/portraits/george-daniels-echappement-coaxial-revolution-2sur2/</loc>
     <lastmod>2017-12-05</lastmod>
   </url>
@@ -74,7 +86,7 @@
   </url>
   <url>
     <loc>https://horlogerie.uk/evenements/</loc>
-    <lastmod>2026-03-28T17:18:20.989775+00:00</lastmod>
+    <lastmod>2026-03-28T17:19:13.836890+00:00</lastmod>
   </url>
   <url>
     <loc>https://horlogerie.uk/histoire/</loc>
@@ -82,7 +94,7 @@
   </url>
   <url>
     <loc>https://horlogerie.uk/portraits/</loc>
-    <lastmod>2017-12-05</lastmod>
+    <lastmod>2017-12-07</lastmod>
   </url>
   <url>
     <loc>https://horlogerie.uk/saisons/</loc>
@@ -90,10 +102,10 @@
   </url>
   <url>
     <loc>https://horlogerie.uk/tendances/</loc>
-    <lastmod>2026-03-28T17:18:20.989775+00:00</lastmod>
+    <lastmod>2017-12-28</lastmod>
   </url>
   <url>
     <loc>https://horlogerie.uk/</loc>
-    <lastmod>2017-12-05</lastmod>
+    <lastmod>2017-12-28</lastmod>
   </url>
 </urlset>
