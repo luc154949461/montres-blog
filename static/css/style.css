@@ -77,20 +77,19 @@ header {
 .header-inner {
     max-width: var(--max-w);
     margin: 0 auto;
-    padding: 0.85rem 1.5rem;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    padding: 1rem 1.5rem 0.3rem;
+    text-align: center;
 }
 
 .logo {
     font-family: var(--font-mono);
-    font-size: 1.1rem;
+    font-size: 1.05rem;
     font-weight: 700;
     color: var(--c-text);
-    letter-spacing: 0.12em;
+    letter-spacing: 0.1em;
     text-transform: uppercase;
     position: relative;
+    display: inline-block;
 }
 .logo::before {
     content: '//';
@@ -100,11 +99,24 @@ header {
 }
 .logo:hover { color: var(--c-accent); }
 
-header nav ul {
+.header-nav {
+    max-width: var(--max-w);
+    margin: 0 auto;
+    padding: 0.3rem 1.5rem 0.7rem;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+}
+.header-nav::-webkit-scrollbar { display: none; }
+
+header nav ul, .header-nav ul {
     list-style: none;
     display: flex;
-    gap: 1.6rem;
+    justify-content: center;
+    gap: 1.4rem;
     align-items: center;
+    flex-wrap: nowrap;
+    white-space: nowrap;
 }
 
 header nav ul a {
@@ -961,14 +973,21 @@ a:focus-visible,
 @media (max-width: 768px) {
     /* Header: horizontal scroll nav, no wrapping */
     .header-inner {
-        flex-direction: column;
-        gap: 0.4rem;
-        padding: 0.7rem 1rem;
+        padding: 0.7rem 1rem 0.2rem;
+    }
+
+    .header-nav {
+        padding: 0.2rem 0.5rem 0.5rem;
+    }
+
+    .header-nav ul {
+        justify-content: flex-start;
+        gap: 0.8rem;
     }
 
     .logo {
-        font-size: 0.95rem;
-        letter-spacing: 0.08em;
+        font-size: 0.85rem;
+        letter-spacing: 0.06em;
     }
 
     header nav {
