@@ -159,9 +159,16 @@ main {
     color: var(--c-text-muted);
     margin-bottom: 2rem;
     letter-spacing: 0.02em;
+    overflow: hidden;
 }
-.breadcrumb a { color: var(--c-text-muted); }
+.breadcrumb a { color: var(--c-text-muted); flex-shrink: 0; }
 .breadcrumb a:hover { color: var(--c-accent); }
+.breadcrumb span {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    min-width: 0;
+}
 .breadcrumb svg { opacity: 0.4; flex-shrink: 0; }
 
 /* ========== Hero ========== */
