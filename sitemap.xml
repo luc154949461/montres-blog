@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://horlogerie.uk/tendances/retrospective-2018-montres-annee/</loc>
+    <lastmod>2018-12-28</lastmod>
+  </url>
+  <url>
     <loc>https://horlogerie.uk/saisons/noel-2018-guide-horloger-budgets/</loc>
     <lastmod>2018-11-25</lastmod>
   </url>
@@ -158,10 +162,10 @@
   </url>
   <url>
     <loc>https://horlogerie.uk/tendances/</loc>
-    <lastmod>2018-04-19</lastmod>
+    <lastmod>2018-12-28</lastmod>
   </url>
   <url>
     <loc>https://horlogerie.uk/</loc>
-    <lastmod>2018-11-25</lastmod>
+    <lastmod>2018-12-28</lastmod>
   </url>
 </urlset>
