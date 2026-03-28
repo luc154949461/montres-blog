@@ -66,8 +66,8 @@ img { max-width: 100%; height: auto; display: block; }
 header {
     background: var(--c-surface);
     border-bottom: 1px dashed var(--c-border);
-    position: sticky;
-    top: 0;
+    position: relative;
+    
     z-index: 100;
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
@@ -283,7 +283,7 @@ main {
 .card::before {
     content: '';
     position: absolute;
-    top: 0;
+    
     right: 0;
     width: 0;
     height: 0;
