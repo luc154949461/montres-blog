@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://horlogerie.uk/evenements/only-watch-2019-grandmaster-chime-31-millions-records/</loc>
+    <lastmod>2019-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://horlogerie.uk/evenements/baselworld-2019-nouveautes-heritage-records/</loc>
+    <lastmod>2019-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://horlogerie.uk/tendances/sihh-2019-la-haute-horlogerie-ose-et-innove-a-geneve/</loc>
+    <lastmod>2019-01-20</lastmod>
+  </url>
+  <url>
+    <loc>https://horlogerie.uk/tendances/horlogerie-les-tendances-qui-vont-marquer-2019/</loc>
+    <lastmod>2019-01-05</lastmod>
+  </url>
+  <url>
     <loc>https://horlogerie.uk/tendances/retrospective-2018-montres-annee/</loc>
     <lastmod>2018-12-28</lastmod>
   </url>
@@ -146,7 +162,7 @@
   </url>
   <url>
     <loc>https://horlogerie.uk/evenements/</loc>
-    <lastmod>2018-03-25</lastmod>
+    <lastmod>2019-11-15</lastmod>
   </url>
   <url>
     <loc>https://horlogerie.uk/histoire/</loc>
@@ -162,10 +178,10 @@
   </url>
   <url>
     <loc>https://horlogerie.uk/tendances/</loc>
-    <lastmod>2018-12-28</lastmod>
+    <lastmod>2019-01-20</lastmod>
   </url>
   <url>
     <loc>https://horlogerie.uk/</loc>
-    <lastmod>2018-12-28</lastmod>
+    <lastmod>2019-11-15</lastmod>
   </url>
 </urlset>
