@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://horlogerie.uk/saisons/fete-des-peres-2018-montres-merci/</loc>
+    <lastmod>2018-06-10</lastmod>
+  </url>
+  <url>
+    <loc>https://horlogerie.uk/evenements/baselworld-2018-10-montres-salon/</loc>
+    <lastmod>2018-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://horlogerie.uk/evenements/sihh-2018-salon-genevois-preview/</loc>
+    <lastmod>2018-01-14</lastmod>
+  </url>
+  <url>
+    <loc>https://horlogerie.uk/tendances/tendances-horlogeres-2018/</loc>
+    <lastmod>2018-01-05</lastmod>
+  </url>
+  <url>
     <loc>https://horlogerie.uk/tendances/retrospective-2017-montres-annee/</loc>
     <lastmod>2017-12-28</lastmod>
   </url>
@@ -94,7 +110,7 @@
   </url>
   <url>
     <loc>https://horlogerie.uk/evenements/</loc>
-    <lastmod>2026-03-28T17:22:21.108363+00:00</lastmod>
+    <lastmod>2018-03-25</lastmod>
   </url>
   <url>
     <loc>https://horlogerie.uk/histoire/</loc>
@@ -106,14 +122,14 @@
   </url>
   <url>
     <loc>https://horlogerie.uk/saisons/</loc>
-    <lastmod>2017-11-25</lastmod>
+    <lastmod>2018-06-10</lastmod>
   </url>
   <url>
     <loc>https://horlogerie.uk/tendances/</loc>
-    <lastmod>2017-12-28</lastmod>
+    <lastmod>2018-01-05</lastmod>
   </url>
   <url>
     <loc>https://horlogerie.uk/</loc>
-    <lastmod>2017-12-28</lastmod>
+    <lastmod>2018-06-10</lastmod>
   </url>
 </urlset>

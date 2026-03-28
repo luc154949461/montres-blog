@@ -4,11 +4,43 @@
   <link href="https://horlogerie.uk/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://horlogerie.uk/" rel="alternate" type="text/html"/>
   <id>https://horlogerie.uk/</id>
-  <updated>2017-12-28</updated>
+  <updated>2018-06-10</updated>
   <author>
     <name>Horlogerie : Guides &amp; Passions</name>
   </author>
   <subtitle>Guides, histoires et passions de l'horlogerie : montres, mecanismes, maitres horlogers</subtitle>
+  <entry>
+    <title>Fete des peres 2018 : 10 montres pour lui dire merci</title>
+    <link href="https://horlogerie.uk/saisons/fete-des-peres-2018-montres-merci/" rel="alternate" type="text/html"/>
+    <id>https://horlogerie.uk/saisons/fete-des-peres-2018-montres-merci/</id>
+    <published>2018-06-10</published>
+    <updated>2018-06-10</updated>
+    <summary>De la Seiko Presage à l'Omega Speedmaster, notre sélection de dix montres pour la fête des pères 2018 — trois paliers de budget pour trouver le garde-temps qui saura lui dire merci.</summary>
+  </entry>
+  <entry>
+    <title>Baselworld 2018 : les 10 montres qui ont marque le salon</title>
+    <link href="https://horlogerie.uk/evenements/baselworld-2018-10-montres-salon/" rel="alternate" type="text/html"/>
+    <id>https://horlogerie.uk/evenements/baselworld-2018-10-montres-salon/</id>
+    <published>2018-03-25</published>
+    <updated>2018-03-25</updated>
+    <summary>De la Rolex GMT-Master II Pepsi à la Tudor Black Bay Fifty-Eight, retour sur les dix garde-temps qui ont véritablement marqué Baselworld 2018 — entre belles surprises, innovations techniques et quelques déceptions.</summary>
+  </entry>
+  <entry>
+    <title>SIHH 2018 : ce qu il faut attendre du salon genevois</title>
+    <link href="https://horlogerie.uk/evenements/sihh-2018-salon-genevois-preview/" rel="alternate" type="text/html"/>
+    <id>https://horlogerie.uk/evenements/sihh-2018-salon-genevois-preview/</id>
+    <published>2018-01-14</published>
+    <updated>2018-01-14</updated>
+    <summary>Le SIHH 2018 ouvre ses portes le 15 janvier à Genève avec 34 exposants. Santos repensé chez Cartier, collection Jubilee chez IWC, Polaris chez JLC, Luminor Due 38 mm chez Panerai et 16 indépendants au Carré des Horlogers : preview complète du salon.</summary>
+  </entry>
+  <entry>
+    <title>Horlogerie : les tendances qui vont marquer 2018</title>
+    <link href="https://horlogerie.uk/tendances/tendances-horlogeres-2018/" rel="alternate" type="text/html"/>
+    <id>https://horlogerie.uk/tendances/tendances-horlogeres-2018/</id>
+    <published>2018-01-05</published>
+    <updated>2018-01-05</updated>
+    <summary>Calibres manufacture accessibles, cadrans verts, boîtiers plus fins : 2018 s'annonce comme l'année du retour à l'essentiel en horlogerie. Tour d'horizon des tendances, des nouveaux mouvements aux marques à surveiller.</summary>
+  </entry>
   <entry>
     <title>Retrospective 2017 : les montres de l annee</title>
     <link href="https://horlogerie.uk/tendances/retrospective-2017-montres-annee/" rel="alternate" type="text/html"/>
@@ -136,37 +168,5 @@
     <published>2017-11-19</published>
     <updated>2017-11-19</updated>
     <summary>25 décembre 1969. Seiko lance l'Astron 35SQ, première montre à quartz de l'histoire. Précision cent fois supérieure au mécanique, brevets ouverts au monde entier, crise industrielle en Suisse : le jour de Noël où l'horlogerie a changé pour toujours.</summary>
-  </entry>
-  <entry>
-    <title>Hamilton Ventura (1957) — L electricite au poignet Hollywood en prime</title>
-    <link href="https://horlogerie.uk/histoire/hamilton-ventura-1957-electricite-hollywood/" rel="alternate" type="text/html"/>
-    <id>https://horlogerie.uk/histoire/hamilton-ventura-1957-electricite-hollywood/</id>
-    <published>2017-11-18</published>
-    <updated>2017-11-18</updated>
-    <summary>3 janvier 1957. Hamilton dévoile la Ventura, première montre électrique de l'histoire. Design Space Age signé Richard Arbib, poignet d'Elvis dans Blue Hawaii, puis arme secrète des Men in Black : retour sur une icône qui a électrifié l'horlogerie — au sens propre.</summary>
-  </entry>
-  <entry>
-    <title>Rolex Submariner (1953) — La conquete des profondeurs</title>
-    <link href="https://horlogerie.uk/histoire/rolex-submariner-1953-conquete-profondeurs/" rel="alternate" type="text/html"/>
-    <id>https://horlogerie.uk/histoire/rolex-submariner-1953-conquete-profondeurs/</id>
-    <published>2017-11-17</published>
-    <updated>2017-11-17</updated>
-    <summary>En 1953, Rolex dévoile la Submariner référence 6204, première montre de plongée étanche à 100 mètres. Avec sa lunette rotative 60 minutes, son cadran luminescent et son boîtier Oyster à couronne vissée, elle invente le vocabulaire de la montre-outil. De 100 à 300 mètres, de Sean Connery aux abysses, retour sur la genèse d'un archétype horloger.</summary>
-  </entry>
-  <entry>
-    <title>LIP Electronique (1952) — La France electrise l horlogerie mondiale</title>
-    <link href="https://horlogerie.uk/histoire/lip-electronique-1952-france-horlogerie/" rel="alternate" type="text/html"/>
-    <id>https://horlogerie.uk/histoire/lip-electronique-1952-france-horlogerie/</id>
-    <published>2017-11-16</published>
-    <updated>2017-11-16</updated>
-    <summary>Le 19 mars 1952, Fred Lip présente à l'Académie des Sciences le prototype de la première montre électronique au monde. Dotée du calibre R27 — balancier à impulsion électromagnétique et diode en germanium —, cette pièce révolutionnaire sera offerte à Eisenhower et de Gaulle en 1958. Entre tradition mécanique et révolution quartz, la LIP Electronic reste le chaînon manquant de l'histoire horlogère.</summary>
-  </entry>
-  <entry>
-    <title>Jaeger-LeCoultre Reverso (1931) — Le cadran qui se retourne face au monde</title>
-    <link href="https://horlogerie.uk/histoire/jaeger-lecoultre-reverso-1931-cadran-retourne/" rel="alternate" type="text/html"/>
-    <id>https://horlogerie.uk/histoire/jaeger-lecoultre-reverso-1931-cadran-retourne/</id>
-    <published>2017-11-15</published>
-    <updated>2017-11-15</updated>
-    <summary>Né en 1931 d'un défi lancé sur un terrain de polo indien, le Jaeger-LeCoultre Reverso et son boîtier pivotant breveté par Chauvot ont traversé neuf décennies sans prendre une ride. Plus de 50 calibres, un design Art déco intact et un dos devenu toile pour l'art miniature : histoire d'un cadran qui se retourne face au monde.</summary>
   </entry>
 </feed>
