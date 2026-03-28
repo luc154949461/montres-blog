@@ -4,11 +4,19 @@
   <link href="https://horlogerie.uk/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://horlogerie.uk/" rel="alternate" type="text/html"/>
   <id>https://horlogerie.uk/</id>
-  <updated>2018-06-10</updated>
+  <updated>2018-09-01</updated>
   <author>
     <name>Horlogerie : Guides &amp; Passions</name>
   </author>
   <subtitle>Guides, histoires et passions de l'horlogerie : montres, mecanismes, maitres horlogers</subtitle>
+  <entry>
+    <title>Rentree 2018 : 5 montres pour reprendre du bon pied</title>
+    <link href="https://horlogerie.uk/saisons/rentree-2018-montres-mecaniques-debutants/" rel="alternate" type="text/html"/>
+    <id>https://horlogerie.uk/saisons/rentree-2018-montres-mecaniques-debutants/</id>
+    <published>2018-09-01</published>
+    <updated>2018-09-01</updated>
+    <summary>Cinq montres mecaniques a moins de 1 000 euros pour attaquer la rentree 2018 : de la Seiko Presage Cocktail Time a la Junghans Max Bill, notre selection de garde-temps polyvalents pour debutants exigeants.</summary>
+  </entry>
   <entry>
     <title>Fete des peres 2018 : 10 montres pour lui dire merci</title>
     <link href="https://horlogerie.uk/saisons/fete-des-peres-2018-montres-merci/" rel="alternate" type="text/html"/>
@@ -160,13 +168,5 @@
     <published>2017-11-20</published>
     <updated>2017-11-20</updated>
     <summary>Seule rescapée de onze tests NASA face à Rolex et Longines, la Speedmaster a chronométré les premiers pas sur la Lune au poignet de Buzz Aldrin le 21 juillet 1969 — retour sur l'épopée du chrono le plus célèbre de l'histoire.</summary>
-  </entry>
-  <entry>
-    <title>Seiko Quartz Astron (1969) — Le seisme de Noel</title>
-    <link href="https://horlogerie.uk/histoire/seiko-quartz-astron-1969-seisme-noel/" rel="alternate" type="text/html"/>
-    <id>https://horlogerie.uk/histoire/seiko-quartz-astron-1969-seisme-noel/</id>
-    <published>2017-11-19</published>
-    <updated>2017-11-19</updated>
-    <summary>25 décembre 1969. Seiko lance l'Astron 35SQ, première montre à quartz de l'histoire. Précision cent fois supérieure au mécanique, brevets ouverts au monde entier, crise industrielle en Suisse : le jour de Noël où l'horlogerie a changé pour toujours.</summary>
   </entry>
 </feed>
