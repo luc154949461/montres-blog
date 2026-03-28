@@ -4,11 +4,19 @@
   <link href="https://horlogerie.uk/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://horlogerie.uk/" rel="alternate" type="text/html"/>
   <id>https://horlogerie.uk/</id>
-  <updated>2018-09-01</updated>
+  <updated>2018-11-25</updated>
   <author>
     <name>Horlogerie : Guides &amp; Passions</name>
   </author>
   <subtitle>Guides, histoires et passions de l'horlogerie : montres, mecanismes, maitres horlogers</subtitle>
+  <entry>
+    <title>Noel 2018 : le guide horloger pour tous les budgets</title>
+    <link href="https://horlogerie.uk/saisons/noel-2018-guide-horloger-budgets/" rel="alternate" type="text/html"/>
+    <id>https://horlogerie.uk/saisons/noel-2018-guide-horloger-budgets/</id>
+    <published>2018-11-25</published>
+    <updated>2018-11-25</updated>
+    <summary>De la Casio G-Shock a moins de 100 euros a la Rolex Submariner, notre selection de montres pour Noel 2018 couvre tous les budgets. Guide complet avec les nouveautes de l'annee.</summary>
+  </entry>
   <entry>
     <title>Rentree 2018 : 5 montres pour reprendre du bon pied</title>
     <link href="https://horlogerie.uk/saisons/rentree-2018-montres-mecaniques-debutants/" rel="alternate" type="text/html"/>
@@ -24,6 +32,14 @@
     <published>2018-06-10</published>
     <updated>2018-06-10</updated>
     <summary>De la Seiko Presage à l'Omega Speedmaster, notre sélection de dix montres pour la fête des pères 2018 — trois paliers de budget pour trouver le garde-temps qui saura lui dire merci.</summary>
+  </entry>
+  <entry>
+    <title>Catalogue Audemars Piguet 2018 : Royal Oak 15500 la succession du Jumbo</title>
+    <link href="https://horlogerie.uk/tendances/catalogue-audemars-piguet-2018-royal-oak-15500/" rel="alternate" type="text/html"/>
+    <id>https://horlogerie.uk/tendances/catalogue-audemars-piguet-2018-royal-oak-15500/</id>
+    <published>2018-04-19</published>
+    <updated>2018-04-19</updated>
+    <summary>Retour sur le catalogue Audemars Piguet 2018 : la Royal Oak 15500ST succede a la 15400, l'Offshore fete ses 25 ans avec la re-edition de "The Beast", et les premieres rumeurs du Code 11.59 agitent les forums.</summary>
   </entry>
   <entry>
     <title>Baselworld 2018 : les 10 montres qui ont marque le salon</title>
@@ -152,21 +168,5 @@
     <published>2017-11-22</published>
     <updated>2017-11-22</updated>
     <summary>En 1983, une montre en plastique à 50 francs suisses a accompli l'impensable : sauver toute l'industrie horlogère helvétique. Retour sur la genèse, l'ingénierie et le triomphe commercial de la Swatch, née de la fusion SSIH-ASUAG orchestrée par Nicolas Hayek.</summary>
-  </entry>
-  <entry>
-    <title>Audemars Piguet Royal Oak (1972) — L acier qui valait de l or</title>
-    <link href="https://horlogerie.uk/histoire/audemars-piguet-royal-oak-1972-acier-or/" rel="alternate" type="text/html"/>
-    <id>https://horlogerie.uk/histoire/audemars-piguet-royal-oak-1972-acier-or/</id>
-    <published>2017-11-21</published>
-    <updated>2017-11-21</updated>
-    <summary>En 1971, Gérald Genta dessine en une nuit une montre en acier à 3 300 CHF — plus chère qu'une Patek en or. La Royal Oak réf. 5402ST va créer la catégorie sport-chic de luxe et changer l'horlogerie pour toujours.</summary>
-  </entry>
-  <entry>
-    <title>Omega Speedmaster Professional (1969) — Le chrono qui a marche sur la Lune</title>
-    <link href="https://horlogerie.uk/histoire/omega-speedmaster-1969-chrono-lune/" rel="alternate" type="text/html"/>
-    <id>https://horlogerie.uk/histoire/omega-speedmaster-1969-chrono-lune/</id>
-    <published>2017-11-20</published>
-    <updated>2017-11-20</updated>
-    <summary>Seule rescapée de onze tests NASA face à Rolex et Longines, la Speedmaster a chronométré les premiers pas sur la Lune au poignet de Buzz Aldrin le 21 juillet 1969 — retour sur l'épopée du chrono le plus célèbre de l'histoire.</summary>
   </entry>
 </feed>

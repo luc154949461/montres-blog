@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://horlogerie.uk/saisons/noel-2018-guide-horloger-budgets/</loc>
+    <lastmod>2018-11-25</lastmod>
+  </url>
+  <url>
     <loc>https://horlogerie.uk/saisons/rentree-2018-montres-mecaniques-debutants/</loc>
     <lastmod>2018-09-01</lastmod>
   </url>
   <url>
     <loc>https://horlogerie.uk/saisons/fete-des-peres-2018-montres-merci/</loc>
     <lastmod>2018-06-10</lastmod>
+  </url>
+  <url>
+    <loc>https://horlogerie.uk/tendances/catalogue-audemars-piguet-2018-royal-oak-15500/</loc>
+    <lastmod>2018-04-19</lastmod>
   </url>
   <url>
     <loc>https://horlogerie.uk/evenements/baselworld-2018-10-montres-salon/</loc>
@@ -130,14 +138,14 @@
   </url>
   <url>
     <loc>https://horlogerie.uk/saisons/</loc>
-    <lastmod>2018-09-01</lastmod>
+    <lastmod>2018-11-25</lastmod>
   </url>
   <url>
     <loc>https://horlogerie.uk/tendances/</loc>
-    <lastmod>2018-01-05</lastmod>
+    <lastmod>2018-04-19</lastmod>
   </url>
   <url>
     <loc>https://horlogerie.uk/</loc>
-    <lastmod>2018-09-01</lastmod>
+    <lastmod>2018-11-25</lastmod>
   </url>
 </urlset>
