@@ -4,11 +4,27 @@
   <link href="https://horlogerie.uk/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://horlogerie.uk/" rel="alternate" type="text/html"/>
   <id>https://horlogerie.uk/</id>
-  <updated>2019-11-15</updated>
+  <updated>2019-12-28</updated>
   <author>
     <name>Horlogerie : Guides &amp; Passions</name>
   </author>
   <subtitle>Guides, histoires et passions de l'horlogerie : montres, mecanismes, maitres horlogers</subtitle>
+  <entry>
+    <title>Retrospective 2019 : l'annee des records et des adieux a Baselworld</title>
+    <link href="https://horlogerie.uk/tendances/retrospective-2019-l-annee-des-records-et-des-adieux-a-baselworld/" rel="alternate" type="text/html"/>
+    <id>https://horlogerie.uk/tendances/retrospective-2019-l-annee-des-records-et-des-adieux-a-baselworld/</id>
+    <published>2019-12-28</published>
+    <updated>2019-12-28</updated>
+    <summary>De la Grandmaster Chime a 31 millions de CHF a la crise de Baselworld, en passant par la controverse du Code 11.59 et l'anniversaire Apollo 11 : retour sur une annee 2019 historique pour l'horlogerie, entre records, adieux et tendances de fond.</summary>
+  </entry>
+  <entry>
+    <title>Noel 2019 : le guide horloger pour tous les budgets</title>
+    <link href="https://horlogerie.uk/tendances/noel-2019-le-guide-horloger-pour-tous-les-budgets/" rel="alternate" type="text/html"/>
+    <id>https://horlogerie.uk/tendances/noel-2019-le-guide-horloger-pour-tous-les-budgets/</id>
+    <published>2019-11-25</published>
+    <updated>2019-11-25</updated>
+    <summary>De 60 a 5 000 euros et au-dela, voici les montres a offrir pour Noel 2019. Casio G-Shock, Seiko 5, Tudor Black Bay 58, Rolex OP 39 : ma selection par budget, avec les references exactes et les prix, pour ne pas se tromper.</summary>
+  </entry>
   <entry>
     <title>Only Watch 2019 : 31 millions pour la Grandmaster Chime et des records en cascade</title>
     <link href="https://horlogerie.uk/evenements/only-watch-2019-grandmaster-chime-31-millions-records/" rel="alternate" type="text/html"/>
@@ -16,6 +32,38 @@
     <published>2019-11-15</published>
     <updated>2019-11-15</updated>
     <summary>La Patek Philippe Grandmaster Chime 6300A en acier pulverise tous les records a 31 millions de francs suisses. Total de la vente : 38,6 millions. 99 % pour la recherche sur la myopathie de Duchenne.</summary>
+  </entry>
+  <entry>
+    <title>Rentree 2019 : 5 montres pour marquer un nouveau depart</title>
+    <link href="https://horlogerie.uk/tendances/rentree-2019-5-montres-pour-marquer-un-nouveau-depart/" rel="alternate" type="text/html"/>
+    <id>https://horlogerie.uk/tendances/rentree-2019-5-montres-pour-marquer-un-nouveau-depart/</id>
+    <published>2019-09-01</published>
+    <updated>2019-09-01</updated>
+    <summary>Nouvelle annee scolaire, nouveau job, nouveau chapitre : septembre est le mois des reinventions. Voici 5 montres disponibles a la rentree 2019, de la Seiko 5 Sports a 280 euros a l'Omega Seamaster a 5 000 euros, pour ancrer ton nouveau depart au poignet.</summary>
+  </entry>
+  <entry>
+    <title>Fete des peres 2019 : 10 montres pour celebrer un homme de gout</title>
+    <link href="https://horlogerie.uk/tendances/fete-des-peres-2019-10-montres-pour-celebrer-un-homme-de-gout/" rel="alternate" type="text/html"/>
+    <id>https://horlogerie.uk/tendances/fete-des-peres-2019-10-montres-pour-celebrer-un-homme-de-gout/</id>
+    <published>2019-06-16</published>
+    <updated>2019-06-16</updated>
+    <summary>De la Casio G-Shock GA-2100 a 99 euros a l'Omega Seamaster 300M a 5 000 euros : voici 10 montres soigneusement selectionnees pour la fete des peres 2019, classees par budget, avec references precises et prix reels. Trouve la montre qui correspond a ton papa.</summary>
+  </entry>
+  <entry>
+    <title>Catalogue Rolex 2019 : le Batman sur Jubilee et l'or s'invite en mer</title>
+    <link href="https://horlogerie.uk/tendances/catalogue-rolex-2019-le-batman-sur-jubilee-et-l-or-s-invite-en-mer/" rel="alternate" type="text/html"/>
+    <id>https://horlogerie.uk/tendances/catalogue-rolex-2019-le-batman-sur-jubilee-et-l-or-s-invite-en-mer/</id>
+    <published>2019-04-21</published>
+    <updated>2019-04-21</updated>
+    <summary>Baselworld 2019 marque un tournant discret mais decisif chez Rolex : le GMT-Master II Batman migre sur bracelet Jubilee avec le calibre 3285, le Sea-Dweller recoit pour la premiere fois de l'or, et le Yacht-Master 42 inaugure un nouveau format en or blanc. Analyse technique reference par reference.</summary>
+  </entry>
+  <entry>
+    <title>Catalogue Seiko 2019 : Prospex LX et la democratisation du Spring Drive</title>
+    <link href="https://horlogerie.uk/tendances/catalogue-seiko-2019-prospex-lx-et-la-democratisation-du-spring-drive/" rel="alternate" type="text/html"/>
+    <id>https://horlogerie.uk/tendances/catalogue-seiko-2019-prospex-lx-et-la-democratisation-du-spring-drive/</id>
+    <published>2019-04-20</published>
+    <updated>2019-04-20</updated>
+    <summary>En 2019, Seiko frappe fort a Baselworld : la ligne Prospex LX democratise le Spring Drive avec des boitiers titane des 5 100 EUR, le calibre 6R35 revolutionne la reserve de marche chez Presage, le Seiko 5 Sports remplace le mythique SKX, et Grand Seiko prend officiellement son independance.</summary>
   </entry>
   <entry>
     <title>Baselworld 2019 : les nouveautes entre heritage et records</title>
@@ -120,53 +168,5 @@
     <published>2018-03-25</published>
     <updated>2018-03-25</updated>
     <summary>De la Rolex GMT-Master II Pepsi à la Tudor Black Bay Fifty-Eight, retour sur les dix garde-temps qui ont véritablement marqué Baselworld 2018 — entre belles surprises, innovations techniques et quelques déceptions.</summary>
-  </entry>
-  <entry>
-    <title>SIHH 2018 : ce qu il faut attendre du salon genevois</title>
-    <link href="https://horlogerie.uk/evenements/sihh-2018-salon-genevois-preview/" rel="alternate" type="text/html"/>
-    <id>https://horlogerie.uk/evenements/sihh-2018-salon-genevois-preview/</id>
-    <published>2018-01-14</published>
-    <updated>2018-01-14</updated>
-    <summary>Le SIHH 2018 ouvre ses portes le 15 janvier à Genève avec 34 exposants. Santos repensé chez Cartier, collection Jubilee chez IWC, Polaris chez JLC, Luminor Due 38 mm chez Panerai et 16 indépendants au Carré des Horlogers : preview complète du salon.</summary>
-  </entry>
-  <entry>
-    <title>Horlogerie : les tendances qui vont marquer 2018</title>
-    <link href="https://horlogerie.uk/tendances/tendances-horlogeres-2018/" rel="alternate" type="text/html"/>
-    <id>https://horlogerie.uk/tendances/tendances-horlogeres-2018/</id>
-    <published>2018-01-05</published>
-    <updated>2018-01-05</updated>
-    <summary>Calibres manufacture accessibles, cadrans verts, boîtiers plus fins : 2018 s'annonce comme l'année du retour à l'essentiel en horlogerie. Tour d'horizon des tendances, des nouveaux mouvements aux marques à surveiller.</summary>
-  </entry>
-  <entry>
-    <title>Retrospective 2017 : les montres de l annee</title>
-    <link href="https://horlogerie.uk/tendances/retrospective-2017-montres-annee/" rel="alternate" type="text/html"/>
-    <id>https://horlogerie.uk/tendances/retrospective-2017-montres-annee/</id>
-    <published>2017-12-28</published>
-    <updated>2017-12-28</updated>
-    <summary>De la Rolex Sea-Dweller 'Single Red' a la TAG Heuer Autavia, en passant par l'Aiguille d'Or de Chopard et l'independance de Grand Seiko : retour sur les 10 montres et les moments qui ont defini 2017 en horlogerie.</summary>
-  </entry>
-  <entry>
-    <title>Francois-Paul Journe — Invenit et Fecit l enfant terrible de Geneve</title>
-    <link href="https://horlogerie.uk/portraits/francois-paul-journe-invenit-et-fecit-geneve/" rel="alternate" type="text/html"/>
-    <id>https://horlogerie.uk/portraits/francois-paul-journe-invenit-et-fecit-geneve/</id>
-    <published>2017-12-09</published>
-    <updated>2017-12-09</updated>
-    <summary>Né à Marseille en 1957, adolescent rebelle orienté vers l'horlogerie par hasard, François-Paul Journe a bâti à Genève la seule manufacture véritablement intégrale de l'horlogerie contemporaine. Triple lauréat de l'Aiguille d'Or au GPHG, créateur du Chronomètre Souverain, de la Sonnerie Souveraine et du Tourbillon Souverain, il incarne la devise qu'il a fait sienne : Invenit et Fecit — il l'a inventé et il l'a fait.</summary>
-  </entry>
-  <entry>
-    <title>Philippe Dufour (2/2) — La Simplicity ou l art de la perfection nue</title>
-    <link href="https://horlogerie.uk/portraits/philippe-dufour-simplicity-perfection-nue-2sur2/" rel="alternate" type="text/html"/>
-    <id>https://horlogerie.uk/portraits/philippe-dufour-simplicity-perfection-nue-2sur2/</id>
-    <published>2017-12-08</published>
-    <updated>2017-12-08</updated>
-    <summary>Née en l'an 2000 d'un défi lancé par les collectionneurs japonais, la Simplicity de Philippe Dufour est devenue l'étalon absolu de la finition main en horlogerie. Environ 200 exemplaires, douze années de labeur solitaire, et des records en salle des ventes qui dépassent le million de dollars : retour sur une montre qui a changé le regard du monde sur l'horlogerie indépendante.</summary>
-  </entry>
-  <entry>
-    <title>Philippe Dufour (1/2) — Le solitaire de la Vallee de Joux</title>
-    <link href="https://horlogerie.uk/portraits/philippe-dufour-solitaire-vallee-de-joux-1sur2/" rel="alternate" type="text/html"/>
-    <id>https://horlogerie.uk/portraits/philippe-dufour-solitaire-vallee-de-joux-1sur2/</id>
-    <published>2017-12-07</published>
-    <updated>2017-12-07</updated>
-    <summary>Né en 1948 dans la Vallée de Joux, Philippe Dufour a quitté Jaeger-LeCoultre et Audemars Piguet pour s'installer seul au Solliat en 1978 — et présenter à Bâle en 1992 la première Grande Sonnerie montre-bracelet au monde, un exploit que personne n'avait osé tenter.</summary>
   </entry>
 </feed>
