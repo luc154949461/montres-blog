@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://horlogerie.uk/createurs/kari-voutilainen-le-maitre-finlandais-de-la-vallee-de-joux/</loc>
+    <lastmod>2020-01-20</lastmod>
+  </url>
+  <url>
+    <loc>https://horlogerie.uk/tendances/horlogerie-les-tendances-qui-vont-marquer-2020/</loc>
+    <lastmod>2020-01-05</lastmod>
+  </url>
+  <url>
     <loc>https://horlogerie.uk/tendances/retrospective-2019-l-annee-des-records-et-des-adieux-a-baselworld/</loc>
     <lastmod>2019-12-28</lastmod>
   </url>
@@ -21,6 +29,10 @@
     <lastmod>2019-06-16</lastmod>
   </url>
   <url>
+    <loc>https://horlogerie.uk/tendances/catalogue-audemars-piguet-2019-code-11-59-la-revolution-tant-attendue/</loc>
+    <lastmod>2019-04-24</lastmod>
+  </url>
+  <url>
     <loc>https://horlogerie.uk/tendances/catalogue-patek-philippe-2019-l-alarm-travel-time-et-le-triomphe-du-vert/</loc>
     <lastmod>2019-04-23</lastmod>
   </url>
@@ -39,6 +51,18 @@
   <url>
     <loc>https://horlogerie.uk/evenements/baselworld-2019-nouveautes-heritage-records/</loc>
     <lastmod>2019-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://horlogerie.uk/complications/les-super-complications-la-course-au-sommet-de-l-art-horloger/</loc>
+    <lastmod>2019-03-18</lastmod>
+  </url>
+  <url>
+    <loc>https://horlogerie.uk/complications/l-equation-du-temps-et-les-complications-astronomiques-l-horloger-et-les-etoiles/</loc>
+    <lastmod>2019-03-11</lastmod>
+  </url>
+  <url>
+    <loc>https://horlogerie.uk/complications/le-quantieme-de-lune-la-poesie-mecanique-du-ciel/</loc>
+    <lastmod>2019-03-04</lastmod>
   </url>
   <url>
     <loc>https://horlogerie.uk/complications/le-chronographe-maitriser-la-fraction-de-seconde/</loc>
@@ -209,8 +233,16 @@
     <lastmod>2017-11-13</lastmod>
   </url>
   <url>
+    <loc>https://horlogerie.uk/boutiques/</loc>
+    <lastmod>2026-03-29T00:23:40.001393+00:00</lastmod>
+  </url>
+  <url>
     <loc>https://horlogerie.uk/complications/</loc>
-    <lastmod>2019-02-25</lastmod>
+    <lastmod>2019-03-18</lastmod>
+  </url>
+  <url>
+    <loc>https://horlogerie.uk/createurs/</loc>
+    <lastmod>2020-01-20</lastmod>
   </url>
   <url>
     <loc>https://horlogerie.uk/evenements/</loc>
@@ -225,15 +257,19 @@
     <lastmod>2017-12-09</lastmod>
   </url>
   <url>
+    <loc>https://horlogerie.uk/produits/</loc>
+    <lastmod>2026-03-29T00:23:40.001393+00:00</lastmod>
+  </url>
+  <url>
     <loc>https://horlogerie.uk/saisons/</loc>
     <lastmod>2018-11-25</lastmod>
   </url>
   <url>
     <loc>https://horlogerie.uk/tendances/</loc>
-    <lastmod>2019-12-28</lastmod>
+    <lastmod>2020-01-05</lastmod>
   </url>
   <url>
     <loc>https://horlogerie.uk/</loc>
-    <lastmod>2019-12-28</lastmod>
+    <lastmod>2020-01-20</lastmod>
   </url>
 </urlset>
