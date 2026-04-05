@@ -4,11 +4,27 @@
   <link href="https://horlogerie.uk/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://horlogerie.uk/" rel="alternate" type="text/html"/>
   <id>https://horlogerie.uk/</id>
-  <updated>2021-01-21</updated>
+  <updated>2021-02-09</updated>
   <author>
     <name>Horlogerie : Guides &amp; Passions</name>
   </author>
   <subtitle>Guides, histoires et passions de l'horlogerie : montres, mecanismes, maitres horlogers</subtitle>
+  <entry>
+    <title>Carole Forestier-Kasapi : la femme qui a concu les mouvements Cartier</title>
+    <link href="https://horlogerie.uk/portraits/carole-forestier-kasapi-la-femme-qui-a-concu-les-mouvements-cartier/" rel="alternate" type="text/html"/>
+    <id>https://horlogerie.uk/portraits/carole-forestier-kasapi-la-femme-qui-a-concu-les-mouvements-cartier/</id>
+    <published>2021-02-09</published>
+    <updated>2021-02-09</updated>
+    <summary>De l'ecole d'horlogerie de La Chaux-de-Fonds a la direction des mouvements chez TAG Heuer, en passant par vingt ans chez Cartier ou elle a concu pres de trente calibres manufacture, Carole Forestier-Kasapi est la femme qui a change la haute horlogerie.</summary>
+  </entry>
+  <entry>
+    <title>Jean-Claude Biver : le showman qui a ressuscite trois marques</title>
+    <link href="https://horlogerie.uk/portraits/jean-claude-biver-le-showman-qui-a-ressuscite-trois-marques/" rel="alternate" type="text/html"/>
+    <id>https://horlogerie.uk/portraits/jean-claude-biver-le-showman-qui-a-ressuscite-trois-marques/</id>
+    <published>2021-02-05</published>
+    <updated>2021-02-05</updated>
+    <summary>De Blancpain rachetee pour 22 000 francs en 1981 a la direction de la division montres de LVMH, Jean-Claude Biver a ressuscite trois marques en quatre decennies. Portrait technique et strategique du plus grand showman de l'horlogerie suisse.</summary>
+  </entry>
   <entry>
     <title>Montres vintage : les specialistes et les bonnes adresses pour acheter en confiance</title>
     <link href="https://horlogerie.uk/boutiques/montres-vintage-les-specialistes-et-les-bonnes-adresses-pour-acheter-en-confiance/" rel="alternate" type="text/html"/>
@@ -152,21 +168,5 @@
     <published>2020-07-06</published>
     <updated>2020-07-06</updated>
     <summary>De la montre de tranchee de 1914 a la B-Uhr des pilotes de la Luftwaffe, en passant par la Dirty Dozen britannique et la specification A-11 americaine, l'histoire de la montre-bracelet est indissociable de celle des guerres mondiales.</summary>
-  </entry>
-  <entry>
-    <title>Ludovic Ballouard : les cadrans qui jouent avec les chiffres</title>
-    <link href="https://horlogerie.uk/createurs/ludovic-ballouard-les-cadrans-qui-jouent-avec-les-chiffres/" rel="alternate" type="text/html"/>
-    <id>https://horlogerie.uk/createurs/ludovic-ballouard-les-cadrans-qui-jouent-avec-les-chiffres/</id>
-    <published>2020-06-22</published>
-    <updated>2020-06-22</updated>
-    <summary>Forme chez Franck Muller et F.P. Journe, l'horloger independant Ludovic Ballouard cree des montres ou les chiffres se retournent, se coupent en deux et defient la lecture conventionnelle du temps. Portrait d'un mecanicien-philosophe.</summary>
-  </entry>
-  <entry>
-    <title>Fête des peres 2020 : 10 montres pour marquer le coup</title>
-    <link href="https://horlogerie.uk/tendances/fete-des-peres-2020-10-montres-pour-marquer-le-coup/" rel="alternate" type="text/html"/>
-    <id>https://horlogerie.uk/tendances/fete-des-peres-2020-10-montres-pour-marquer-le-coup/</id>
-    <published>2020-06-14</published>
-    <updated>2020-06-14</updated>
-    <summary>De la Casio G-Shock a 110 euros a la Rolex Oyster Perpetual a 5 550 euros, voici dix montres selectionnees en 2020 pour trouver le cadeau parfait pour la fête des peres, quel que soit le budget.</summary>
   </entry>
 </feed>
