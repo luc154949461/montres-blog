@@ -4,11 +4,59 @@
   <link href="https://horlogerie.uk/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://horlogerie.uk/" rel="alternate" type="text/html"/>
   <id>https://horlogerie.uk/</id>
-  <updated>2021-02-09</updated>
+  <updated>2021-04-05</updated>
   <author>
     <name>Horlogerie : Guides &amp; Passions</name>
   </author>
   <subtitle>Guides, histoires et passions de l'horlogerie : montres, mecanismes, maitres horlogers</subtitle>
+  <entry>
+    <title>Rolex : comment une boîte aux lettres de Londres est devenue l'empire horloger mondial</title>
+    <link href="https://horlogerie.uk/histoire/rolex-comment-une-boite-aux-lettres-de-londres-est-devenue-l-empire-horloger-mondial/" rel="alternate" type="text/html"/>
+    <id>https://horlogerie.uk/histoire/rolex-comment-une-boite-aux-lettres-de-londres-est-devenue-l-empire-horloger-mondial/</id>
+    <published>2021-04-05</published>
+    <updated>2021-04-05</updated>
+    <summary>De Hatton Garden en 1905 à l'empire mondial actuel, l'histoire de Rolex est celle d'un orphelin bavarois qui a inventé l'Oyster étanche, le Perpetual automatique, puis bâti une mythologie d'exploits — Explorer, Submariner, GMT — avant de tout léguer à une fondation charitable.</summary>
+  </entry>
+  <entry>
+    <title>Top 10 montres 2021 : les garde-temps qui ont marqué l'année</title>
+    <link href="https://horlogerie.uk/tendances/top-10-montres-2021-les-garde-temps-qui-ont-marque-l-annee/" rel="alternate" type="text/html"/>
+    <id>https://horlogerie.uk/tendances/top-10-montres-2021-les-garde-temps-qui-ont-marque-l-annee/</id>
+    <published>2021-03-22</published>
+    <updated>2021-03-22</updated>
+    <summary>Nautilus 5711 finale, Explorer 36 mm de retour, Bulgari Aiguille d'Or, indépendants en force : analyse technique des dix montres qui ont défini l'année horlogère 2021, du GPHG aux bouleversements du marché.</summary>
+  </entry>
+  <entry>
+    <title>George Daniels et sa brouette : le génie qui a défié toute une industrie</title>
+    <link href="https://horlogerie.uk/portraits/george-daniels-et-sa-brouette-le-genie-qui-a-defie-toute-une-industrie/" rel="alternate" type="text/html"/>
+    <id>https://horlogerie.uk/portraits/george-daniels-et-sa-brouette-le-genie-qui-a-defie-toute-une-industrie/</id>
+    <published>2021-03-15</published>
+    <updated>2021-03-15</updated>
+    <summary>Autodidacte né dans la pauvreté de l'East End londonien, George Daniels a fabriqué 37 montres à la main et inventé l'échappement co-axial — la première avancée fondamentale en 250 ans. Il lui aura fallu 35 ans pour convaincre Omega de l'adopter.</summary>
+  </entry>
+  <entry>
+    <title>Antoine Norbert de Patek et Adrien Philippe : le duo qui a inventé Patek Philippe</title>
+    <link href="https://horlogerie.uk/portraits/antoine-norbert-de-patek-et-adrien-philippe-le-duo-qui-a-invente-patek-philippe/" rel="alternate" type="text/html"/>
+    <id>https://horlogerie.uk/portraits/antoine-norbert-de-patek-et-adrien-philippe-le-duo-qui-a-invente-patek-philippe/</id>
+    <published>2021-03-08</published>
+    <updated>2021-03-08</updated>
+    <summary>Un exilé polonais et un inventeur français se rencontrent à Paris en 1844. De cette poignée de main naît Patek Philippe, la marque qui a vendu une montre à la reine Victoria et détient le record mondial aux enchères à 31 millions de dollars.</summary>
+  </entry>
+  <entry>
+    <title>Jack Heuer : le visionnaire qui a mis TAG Heuer au poignet de Steve McQueen</title>
+    <link href="https://horlogerie.uk/portraits/jack-heuer-le-visionnaire-qui-a-mis-tag-heuer-au-poignet-de-steve-mcqueen/" rel="alternate" type="text/html"/>
+    <id>https://horlogerie.uk/portraits/jack-heuer-le-visionnaire-qui-a-mis-tag-heuer-au-poignet-de-steve-mcqueen/</id>
+    <published>2021-03-01</published>
+    <updated>2021-03-01</updated>
+    <summary>Quatrième génération à la tête de Heuer, Jack Heuer a lancé la Monaco — premier chronographe automatique carré et étanche — en 1969, avant que Steve McQueen ne l'immortalise dans Le Mans. Retour sur un visionnaire du sport et du style.</summary>
+  </entry>
+  <entry>
+    <title>Walter Lange : reconstruire A. Lange &amp; Söhne sur les ruines du Mur</title>
+    <link href="https://horlogerie.uk/portraits/walter-lange-reconstruire-a-lange-sohne-sur-les-ruines-du-mur/" rel="alternate" type="text/html"/>
+    <id>https://horlogerie.uk/portraits/walter-lange-reconstruire-a-lange-sohne-sur-les-ruines-du-mur/</id>
+    <published>2021-02-22</published>
+    <updated>2021-02-22</updated>
+    <summary>Exproprié en 1948 par le régime est-allemand, Walter Lange a attendu la chute du Mur pour ressusciter la manufacture horlogère fondée par son arrière-grand-père en 1845. Le 24 octobre 1994, il dévoile la première collection Lange au Palais Royal de Dresde.</summary>
+  </entry>
   <entry>
     <title>Carole Forestier-Kasapi : la femme qui a concu les mouvements Cartier</title>
     <link href="https://horlogerie.uk/portraits/carole-forestier-kasapi-la-femme-qui-a-concu-les-mouvements-cartier/" rel="alternate" type="text/html"/>
@@ -120,53 +168,5 @@
     <published>2020-08-24</published>
     <updated>2020-08-24</updated>
     <summary>Des ouvrières genevoises du XVIIe siècle à Carole Forestier-Kasapi chez Cartier, l'histoire des femmes dans l'horlogerie est une histoire d'effacement. Collectionneuses royales, assembleuses invisibles, ingénieures pionnières : il est temps de remettre les pendules à l'heure.</summary>
-  </entry>
-  <entry>
-    <title>A. Lange &amp; Sohne Lange 1 : la renaissance de l'horlogerie allemande</title>
-    <link href="https://horlogerie.uk/produits/a-lange-sohne-lange-1-la-renaissance-de-l-horlogerie-allemande/" rel="alternate" type="text/html"/>
-    <id>https://horlogerie.uk/produits/a-lange-sohne-lange-1-la-renaissance-de-l-horlogerie-allemande/</id>
-    <published>2020-08-10</published>
-    <updated>2020-08-10</updated>
-    <summary>Le 24 octobre 1994, Walter Lange et Gunter Blumlein presentent la Lange 1 a Dresde et ressuscitent l'horlogerie allemande. Cadran asymetrique, grande date inspiree du Semperoper, calibre L901.0 a finition Glashutte — retour sur la montre qui a defie la suprematie suisse.</summary>
-  </entry>
-  <entry>
-    <title>Grand Seiko Snowflake SBGA211 : le Japon defie la Suisse</title>
-    <link href="https://horlogerie.uk/produits/grand-seiko-snowflake-sbga211-le-japon-defie-la-suisse/" rel="alternate" type="text/html"/>
-    <id>https://horlogerie.uk/produits/grand-seiko-snowflake-sbga211-le-japon-defie-la-suisse/</id>
-    <published>2020-08-03</published>
-    <updated>2020-08-03</updated>
-    <summary>Avec son cadran texture inspire de la neige de Shinshu, son mouvement Spring Drive exclusif et son boitier titane de 100 grammes, la Grand Seiko Snowflake SBGA211 bouleverse la hierarchie horlogere mondiale. Decouvre pourquoi les collectionneurs la considerent comme le meilleur rapport qualite-prix de l'industrie.</summary>
-  </entry>
-  <entry>
-    <title>Cartier Tank Louis Cartier : cent ans d'elegance rectangulaire</title>
-    <link href="https://horlogerie.uk/produits/cartier-tank-louis-cartier-cent-ans-d-elegance-rectangulaire/" rel="alternate" type="text/html"/>
-    <id>https://horlogerie.uk/produits/cartier-tank-louis-cartier-cent-ans-d-elegance-rectangulaire/</id>
-    <published>2020-07-27</published>
-    <updated>2020-07-27</updated>
-    <summary>Inspiree par les chars Renault FT-17 de la Grande Guerre, la Tank Louis Cartier a traverse un siecle au poignet de Pershing, Warhol, Saint Laurent et bien d'autres. Anatomie d'un rectangle d'or qui a defini l'elegance horlogere.</summary>
-  </entry>
-  <entry>
-    <title>Audemars Piguet Royal Oak 15202ST : le Jumbo ne vieillit pas</title>
-    <link href="https://horlogerie.uk/produits/audemars-piguet-royal-oak-15202st-le-jumbo-ne-vieillit-pas/" rel="alternate" type="text/html"/>
-    <id>https://horlogerie.uk/produits/audemars-piguet-royal-oak-15202st-le-jumbo-ne-vieillit-pas/</id>
-    <published>2020-07-20</published>
-    <updated>2020-07-20</updated>
-    <summary>Heritiere directe de la 5402 de 1972, la Royal Oak 15202ST est la derniere Jumbo a porter le calibre historique 2121. Discontinuee en 2022 au profit de la 16202, elle reste le Saint-Graal des collectionneurs d'Audemars Piguet.</summary>
-  </entry>
-  <entry>
-    <title>Stepan Sarpaneva : l'horloger du Nord qui sculpte les montres-lune</title>
-    <link href="https://horlogerie.uk/createurs/stepan-sarpaneva-l-horloger-du-nord-qui-sculpte-les-montres-lune/" rel="alternate" type="text/html"/>
-    <id>https://horlogerie.uk/createurs/stepan-sarpaneva-l-horloger-du-nord-qui-sculpte-les-montres-lune/</id>
-    <published>2020-07-13</published>
-    <updated>2020-07-13</updated>
-    <summary>Ne dans une famille de designers finlandais celebres, Stepan Sarpaneva fabrique ses montres a Helsinki et a fait de la phase de lune sa signature. De la Korona K3 Black Moon aux collaborations avec MB&amp;F, portrait d'un sculpteur de lunes polaires.</summary>
-  </entry>
-  <entry>
-    <title>Montres et guerre : de la tranchee au poignet des pilotes</title>
-    <link href="https://horlogerie.uk/histoire/montres-et-guerre-de-la-tranchee-au-poignet-des-pilotes/" rel="alternate" type="text/html"/>
-    <id>https://horlogerie.uk/histoire/montres-et-guerre-de-la-tranchee-au-poignet-des-pilotes/</id>
-    <published>2020-07-06</published>
-    <updated>2020-07-06</updated>
-    <summary>De la montre de tranchee de 1914 a la B-Uhr des pilotes de la Luftwaffe, en passant par la Dirty Dozen britannique et la specification A-11 americaine, l'histoire de la montre-bracelet est indissociable de celle des guerres mondiales.</summary>
   </entry>
 </feed>
