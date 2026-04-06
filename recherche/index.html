@@ -3,15 +3,15 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>404 — Horlogerie : Guides &amp; Passions</title>
-    <meta name="description" content="">
-    
+    <title>Recherche — Horlogerie : Guides &amp; Passions</title>
+    <meta name="description" content="Rechercher dans les articles de Horlogerie : Guides &amp; Passions">
+    <link rel="canonical" href="https://horlogerie.uk/recherche/">
 
     <!-- Open Graph -->
-    <meta property="og:title" content="404 — Horlogerie : Guides &amp; Passions">
-    <meta property="og:description" content="">
+    <meta property="og:title" content="Recherche — Horlogerie : Guides &amp; Passions">
+    <meta property="og:description" content="Rechercher dans les articles de Horlogerie : Guides &amp; Passions">
     <meta property="og:type" content="website">
-    
+    <meta property="og:url" content="https://horlogerie.uk/recherche/">
     <meta property="og:locale" content="fr">
 
     <!-- RSS -->
@@ -57,13 +57,33 @@
 
     <main>
         
+        <nav class="breadcrumb" aria-label="Fil d'Ariane">
+            
+            
+            <a href="/">Horlogerie : Guides &amp; Passions</a>
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
+            
+            
+            
+            <span>Recherche</span>
+            
+            
+        </nav>
+        
 
         
-<div class="empty-state" style="padding: 5rem 1rem;">
-    <h1>404</h1>
-    <p style="margin-top: 1rem;">La page que vous cherchez n'existe pas ou a ete deplacee.</p>
-    <p style="margin-top: 1.5rem;"><a href="/" class="btn btn-outline">Retour a l'accueil</a></p>
+<header class="page-header">
+    <h1>Recherche</h1>
+</header>
+
+<div class="search-page">
+    <input type="search" id="search-input" placeholder="Rechercher un article..." autofocus autocomplete="off">
+    <p id="search-count" class="search-count"></p>
+    <div id="search-results" class="card-grid"></div>
 </div>
+
+<script src="/static/js/fuse.min.js"></script>
+<script src="/static/js/search.js"></script>
 
     </main>
 

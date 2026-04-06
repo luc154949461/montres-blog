@@ -1139,3 +1139,28 @@ a:focus-visible,
     .pagination { gap: 0.75rem; }
     .btn { padding: 0.45rem 1rem; font-size: 0.72rem; }
 }
+
+/* ---------- Search ---------- */
+.search-page { max-width: var(--max-w); margin: 0 auto; }
+.search-page input[type="search"] {
+    width: 100%;
+    padding: 0.9rem 1.2rem;
+    font-size: 1.1rem;
+    font-family: inherit;
+    border: 2px solid var(--c-border);
+    border-radius: var(--radius);
+    background: var(--c-surface);
+    color: var(--c-text);
+    margin-bottom: 0.5rem;
+    transition: border-color var(--transition);
+}
+.search-page input[type="search"]:focus {
+    outline: none;
+    border-color: var(--c-accent);
+}
+.search-count {
+    font-size: 0.85rem;
+    color: var(--c-text-muted);
+    margin-bottom: 1.5rem;
+}
+.search-link { font-size: 0.9rem; }
