@@ -4,11 +4,51 @@
   <link href="https://horlogerie.uk/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://horlogerie.uk/" rel="alternate" type="text/html"/>
   <id>https://horlogerie.uk/</id>
-  <updated>2021-04-05</updated>
+  <updated>2021-10-05</updated>
   <author>
     <name>Horlogerie : Guides &amp; Passions</name>
   </author>
   <subtitle>Guides, histoires et passions de l'horlogerie : montres, mecanismes, maitres horlogers</subtitle>
+  <entry>
+    <title>Seiko : du Japon Meiji à la révolution du quartz et au Spring Drive</title>
+    <link href="https://horlogerie.uk/histoire/seiko-du-japon-meiji-a-la-revolution-du-quartz-et-au-spring-drive/" rel="alternate" type="text/html"/>
+    <id>https://horlogerie.uk/histoire/seiko-du-japon-meiji-a-la-revolution-du-quartz-et-au-spring-drive/</id>
+    <published>2021-10-05</published>
+    <updated>2021-10-05</updated>
+    <summary>De la boutique de Kintarō Hattori en 1881 à la révolution du quartz en 1969, puis à l'invention du Spring Drive et son régulateur Tri-synchro, Seiko a bouleversé l'horlogerie mondiale à trois reprises. Portrait d'une obstination japonaise.</summary>
+  </entry>
+  <entry>
+    <title>Tudor : comment le petit frère de Rolex est devenu un géant à part entière</title>
+    <link href="https://horlogerie.uk/histoire/tudor-comment-le-petit-frere-de-rolex-est-devenu-un-geant-a-part-entiere/" rel="alternate" type="text/html"/>
+    <id>https://horlogerie.uk/histoire/tudor-comment-le-petit-frere-de-rolex-est-devenu-un-geant-a-part-entiere/</id>
+    <published>2021-10-01</published>
+    <updated>2021-10-01</updated>
+    <summary>De sa création par Hans Wilsdorf en 1946 à son adoption par la Marine nationale française, en passant par les années d'ombre et la renaissance Black Bay, Tudor est passé de petit frère de Rolex à géant manufacture. Retour sur un parcours unique.</summary>
+  </entry>
+  <entry>
+    <title>Jaeger-LeCoultre : la Grande Maison de la Vallée de Joux</title>
+    <link href="https://horlogerie.uk/histoire/jaeger-lecoultre-la-grande-maison-de-la-vallee-de-joux/" rel="alternate" type="text/html"/>
+    <id>https://horlogerie.uk/histoire/jaeger-lecoultre-la-grande-maison-de-la-vallee-de-joux/</id>
+    <published>2021-09-27</published>
+    <updated>2021-09-27</updated>
+    <summary>Depuis 1833, dans la Vallée de Joux, Jaeger-LeCoultre a créé plus de 1 400 calibres, inventé le Millionomètre, donné naissance à la Reverso et à l'Atmos. Portrait de la Grande Maison, de la fusion avec Edmond Jaeger au Gyrotourbillon.</summary>
+  </entry>
+  <entry>
+    <title>Cartier : quand un joaillier a inventé la montre-bracelet moderne</title>
+    <link href="https://horlogerie.uk/histoire/cartier-quand-un-joaillier-a-invente-la-montre-bracelet-moderne/" rel="alternate" type="text/html"/>
+    <id>https://horlogerie.uk/histoire/cartier-quand-un-joaillier-a-invente-la-montre-bracelet-moderne/</id>
+    <published>2021-04-19</published>
+    <updated>2021-04-19</updated>
+    <summary>De la rue Montorgueil en 1847 aux calibres maison de La Chaux-de-Fonds, Cartier a façonné l'horlogerie de forme à travers quatre créations fondatrices : la Santos (1904), première montre-bracelet pour homme ; la Tank (1917), inspirée des chars Renault ; la Crash (1967), œuvre surréaliste née à Londres ; et la Panthère (1983), chef-d'œuvre de la montre-bijou.</summary>
+  </entry>
+  <entry>
+    <title>Omega : de la precision olympique a la conquete de la Lune</title>
+    <link href="https://horlogerie.uk/histoire/omega-de-la-precision-olympique-a-la-conquete-de-la-lune/" rel="alternate" type="text/html"/>
+    <id>https://horlogerie.uk/histoire/omega-de-la-precision-olympique-a-la-conquete-de-la-lune/</id>
+    <published>2021-04-12</published>
+    <updated>2021-04-12</updated>
+    <summary>De l'atelier de Louis Brandt en 1848 au calibre qui donna son nom a la marque en 1894, du chronometrage des JO de Los Angeles 1932 a la Lune en 1969, jusqu'a l'echappement Co-Axial de George Daniels et la certification METAS Master Chronometer : l'histoire d'Omega est celle d'une obsession de precision qui n'a jamais faibli.</summary>
+  </entry>
   <entry>
     <title>Rolex : comment une boîte aux lettres de Londres est devenue l'empire horloger mondial</title>
     <link href="https://horlogerie.uk/histoire/rolex-comment-une-boite-aux-lettres-de-londres-est-devenue-l-empire-horloger-mondial/" rel="alternate" type="text/html"/>
@@ -128,45 +168,5 @@
     <published>2020-11-25</published>
     <updated>2020-11-25</updated>
     <summary>De la G-Shock a 110 euros a la Patek Calatrava a 32 000 euros, voici le guide horloger de Noel 2020. Quatre paliers de budget, des prix reels en boutique, et des conseils adaptes a un contexte sanitaire inédit pour trouver la montre parfaite a offrir.</summary>
-  </entry>
-  <entry>
-    <title>Encheres automne 2020 : Phillips, Christie's et les records malgre le COVID</title>
-    <link href="https://horlogerie.uk/evenements/encheres-automne-2020-phillips-christie-s-et-les-records-malgre-le-covid/" rel="alternate" type="text/html"/>
-    <id>https://horlogerie.uk/evenements/encheres-automne-2020-phillips-christie-s-et-les-records-malgre-le-covid/</id>
-    <published>2020-11-08</published>
-    <updated>2020-11-08</updated>
-    <summary>En novembre 2020, les maisons de vente genevoises ont defie le COVID avec des encheres record. Phillips, Christie's et Sotheby's ont demontre la resilience du marche horloger et accelere la revolution numerique des encheres, avec des resultats spectaculaires malgre les salles vides.</summary>
-  </entry>
-  <entry>
-    <title>L'horlogerie chinoise : de l'empereur Kangxi aux Shanghai Watch Factory</title>
-    <link href="https://horlogerie.uk/histoire/l-horlogerie-chinoise-de-l-empereur-kangxi-aux-shanghai-watch-factory/" rel="alternate" type="text/html"/>
-    <id>https://horlogerie.uk/histoire/l-horlogerie-chinoise-de-l-empereur-kangxi-aux-shanghai-watch-factory/</id>
-    <published>2020-09-07</published>
-    <updated>2020-09-07</updated>
-    <summary>Des horloges offertes par les jésuites à l'empereur Kangxi aux mouvements Seagull qui équipent un quart de la production mondiale, l'horlogerie chinoise a une histoire de quatre siècles. Retour sur un parcours fascinant, de la Cité interdite aux indépendants contemporains.</summary>
-  </entry>
-  <entry>
-    <title>Rentree 2020 : cinq montres pour un nouveau depart post-confinement</title>
-    <link href="https://horlogerie.uk/tendances/rentree-2020-cinq-montres-pour-un-nouveau-depart-post-confinement/" rel="alternate" type="text/html"/>
-    <id>https://horlogerie.uk/tendances/rentree-2020-cinq-montres-pour-un-nouveau-depart-post-confinement/</id>
-    <published>2020-09-01</published>
-    <updated>2020-09-01</updated>
-    <summary>Apres des mois de confinement ou le temps semblait suspendu, la rentree 2020 est l'occasion de remettre une montre au poignet. Cinq modeles polyvalents, de 500 a 3 200 euros, pour un nouveau depart avec style.</summary>
-  </entry>
-  <entry>
-    <title>La révolution des micromarques : comment Internet a démocratisé l'horlogerie</title>
-    <link href="https://horlogerie.uk/histoire/la-revolution-des-micromarques-comment-internet-a-democratise-l-horlogerie/" rel="alternate" type="text/html"/>
-    <id>https://horlogerie.uk/histoire/la-revolution-des-micromarques-comment-internet-a-democratise-l-horlogerie/</id>
-    <published>2020-08-31</published>
-    <updated>2020-08-31</updated>
-    <summary>Christopher Ward, Halios, Baltic, Merci : les micromarques ont bouleversé l'horlogerie en vendant en direct sur Internet. Mouvements Miyota et Sellita accessibles, Kickstarter, forums et Instagram — retour sur la révolution qui a démocratisé la montre mécanique.</summary>
-  </entry>
-  <entry>
-    <title>Les femmes et l'horlogerie : une histoire invisible enfin racontée</title>
-    <link href="https://horlogerie.uk/histoire/les-femmes-et-l-horlogerie-une-histoire-invisible-enfin-racontee/" rel="alternate" type="text/html"/>
-    <id>https://horlogerie.uk/histoire/les-femmes-et-l-horlogerie-une-histoire-invisible-enfin-racontee/</id>
-    <published>2020-08-24</published>
-    <updated>2020-08-24</updated>
-    <summary>Des ouvrières genevoises du XVIIe siècle à Carole Forestier-Kasapi chez Cartier, l'histoire des femmes dans l'horlogerie est une histoire d'effacement. Collectionneuses royales, assembleuses invisibles, ingénieures pionnières : il est temps de remettre les pendules à l'heure.</summary>
   </entry>
 </feed>
