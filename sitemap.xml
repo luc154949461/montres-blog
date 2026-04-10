@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://horlogerie.uk/dossier/royal-oak-offshore-30-ans-de-la-bete-retrospective-et-editions-anniversaire/</loc>
+    <lastmod>2021-10-26</lastmod>
+  </url>
+  <url>
+    <loc>https://horlogerie.uk/dossier/l-histoire-de-la-daytona-60-ans-d-une-icone-du-chronographe/</loc>
+    <lastmod>2021-10-26</lastmod>
+  </url>
+  <url>
+    <loc>https://horlogerie.uk/dossier/l-horlogerie-et-l-espace-de-la-speedmaster-lunaire-aux-montres-de-la-nasa/</loc>
+    <lastmod>2021-10-26</lastmod>
+  </url>
+  <url>
+    <loc>https://horlogerie.uk/dossier/montres-connectees-vs-mecaniques-l-apple-watch-ultra-change-t-elle-la-donne/</loc>
+    <lastmod>2021-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://horlogerie.uk/dossier/moonswatch-et-l-effet-swatch-x-omega-bilan-un-an-apres-le-seisme-horloger/</loc>
+    <lastmod>2021-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://horlogerie.uk/histoire/nomos-glashutte-le-design-bauhaus-allemand-a-prix-accessible/</loc>
+    <lastmod>2021-10-19</lastmod>
+  </url>
+  <url>
     <loc>https://horlogerie.uk/histoire/blancpain-la-plus-ancienne-marque-horlogere-du-monde-et-sa-renaissance/</loc>
     <lastmod>2021-10-12</lastmod>
   </url>
@@ -457,12 +481,16 @@
     <lastmod>2020-07-13</lastmod>
   </url>
   <url>
+    <loc>https://horlogerie.uk/dossier/</loc>
+    <lastmod>2021-10-26</lastmod>
+  </url>
+  <url>
     <loc>https://horlogerie.uk/evenements/</loc>
     <lastmod>2020-11-08</lastmod>
   </url>
   <url>
     <loc>https://horlogerie.uk/histoire/</loc>
-    <lastmod>2021-10-12</lastmod>
+    <lastmod>2021-10-19</lastmod>
   </url>
   <url>
     <loc>https://horlogerie.uk/portraits/</loc>
@@ -478,6 +506,6 @@
   </url>
   <url>
     <loc>https://horlogerie.uk/</loc>
-    <lastmod>2021-10-12</lastmod>
+    <lastmod>2021-10-26</lastmod>
   </url>
 </urlset>
