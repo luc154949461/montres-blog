@@ -4,64 +4,96 @@
   <link href="https://horlogerie.uk/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://horlogerie.uk/" rel="alternate" type="text/html"/>
   <id>https://horlogerie.uk/</id>
-  <updated>2022-05-13</updated>
+  <updated>2023-04-04</updated>
   <author>
     <name>Horlogerie : Guides &amp; Passions</name>
   </author>
   <subtitle>Guides, histoires et passions de l'horlogerie : montres, mecanismes, maitres horlogers</subtitle>
   <entry>
+    <title>L'horlogerie française : de Breguet à Baltic, un patrimoine méconnu</title>
+    <link href="https://horlogerie.uk/dossier/l-horlogerie-francaise-de-breguet-a-baltic-un-patrimoine-meconnu/" rel="alternate" type="text/html"/>
+    <id>https://horlogerie.uk/dossier/l-horlogerie-francaise-de-breguet-a-baltic-un-patrimoine-meconnu/</id>
+    <published>2023-04-04</published>
+    <updated>2023-04-04</updated>
+    <summary>La France a inventé le tourbillon, habillé les présidents et forgé des icônes sportives — mais son histoire horlogère reste dans l'ombre de la Suisse. De Breguet à Baltic, en passant par Lip et Yema, retour sur un patrimoine qui renaît doucement, pièce après pièce.</summary>
+  </entry>
+  <entry>
+    <title>Complications horlogères pour les néophytes : tourbillon, répétition minutes et grande complication</title>
+    <link href="https://horlogerie.uk/dossier/complications-horlogeres-pour-les-neophytes-tourbillon-repetition-minutes-et-grande-complication/" rel="alternate" type="text/html"/>
+    <id>https://horlogerie.uk/dossier/complications-horlogeres-pour-les-neophytes-tourbillon-repetition-minutes-et-grande-complication/</id>
+    <published>2023-04-03</published>
+    <updated>2023-04-03</updated>
+    <summary>Tourbillon, répétition minutes, grande complication : ces termes fascinent mais peuvent sembler hermétiques aux non-initiés. Jean-Marc B., horloger indépendant dans la Vallée de Joux depuis 30 ans, vous guide pas à pas dans l'univers des complications horlogères, de leur histoire à leur utilité réelle.</summary>
+  </entry>
+  <entry>
+    <title>Le marché secondaire en 2022 : stabilisation et retour des montres habillées</title>
+    <link href="https://horlogerie.uk/dossier/le-marche-secondaire-en-2022-stabilisation-et-retour-des-montres-habillees/" rel="alternate" type="text/html"/>
+    <id>https://horlogerie.uk/dossier/le-marche-secondaire-en-2022-stabilisation-et-retour-des-montres-habillees/</id>
+    <published>2022-11-15</published>
+    <updated>2022-11-15</updated>
+    <summary>Après la frénésie spéculative de 2021, le marché secondaire de la montre s'est normalisé en 2022 : les prix des Rolex en acier ont reculé de 15 à 30 %, tandis que les montres habillées connaissaient un regain d'intérêt inattendu. Analyse des données Chrono24 et WatchBox pour comprendre ce tournant majeur.</summary>
+  </entry>
+  <entry>
+    <title>Horlogerie durable : matériaux recyclés, énergie solaire et montres qui durent un siècle</title>
+    <link href="https://horlogerie.uk/dossier/horlogerie-durable-materiaux-recycles-energie-solaire-et-montres-qui-durent-un-siecle/" rel="alternate" type="text/html"/>
+    <id>https://horlogerie.uk/dossier/horlogerie-durable-materiaux-recycles-energie-solaire-et-montres-qui-durent-un-siecle/</id>
+    <published>2022-11-14</published>
+    <updated>2022-11-14</updated>
+    <summary>En 2022, l'horlogerie suisse s'engage résolument dans la durabilité : matériaux recyclés chez Breitling et Maurice Lacroix, or éthique chez Chopard, filets de pêche transformés chez Alpina, et la philosophie japonaise de Grand Seiko — fabriquer un mouvement pour cent ans. Un dossier sur la révolution verte d'une industrie qui a toujours cultivé la permanence.</summary>
+  </entry>
+  <entry>
     <title>Fête des pères 2022 : montres durables et intemporelles à offrir</title>
     <link href="https://horlogerie.uk/saisonnier/fete-des-peres-2022-montres-durables-et-intemporelles-a-offrir/" rel="alternate" type="text/html"/>
     <id>https://horlogerie.uk/saisonnier/fete-des-peres-2022-montres-durables-et-intemporelles-a-offrir/</id>
-    <published>2022-05-13</published>
-    <updated>2022-05-13</updated>
+    <published>2022-11-11</published>
+    <updated>2022-11-11</updated>
     <summary>Pour la fête des pères 2022, offrir une montre ne se résume plus à un beau cadran : c'est choisir un objet durable, transmissible, conçu pour traverser les décennies. Henri D. vous guide parmi les garde-temps écoresponsables et les classiques intemporels, du solaire Citizen aux icônes Omega et Cartier.</summary>
   </entry>
   <entry>
     <title>Noël 2022 : Top 10 montres de l'année et bilan du marché</title>
     <link href="https://horlogerie.uk/saisonnier/noel-2022-top-10-montres-de-l-annee-et-bilan-du-marche/" rel="alternate" type="text/html"/>
     <id>https://horlogerie.uk/saisonnier/noel-2022-top-10-montres-de-l-annee-et-bilan-du-marche/</id>
-    <published>2022-05-12</published>
-    <updated>2022-05-12</updated>
+    <published>2022-11-10</published>
+    <updated>2022-11-10</updated>
     <summary>2022 a été une année exceptionnelle pour l'horlogerie suisse, avec des exportations en hausse de 11,4 % et quelques sorties qui resteront dans les mémoires. Henri D. dresse son palmarès des dix montres incontournables de l'année et offre un guide cadeaux pour tous les budgets, du remontoir à la complication grand prix.</summary>
   </entry>
   <entry>
     <title>Watches &amp; Wonders 2022 : Genève, record de fréquentation</title>
     <link href="https://horlogerie.uk/saisonnier/watches-wonders-2022-geneve-record-de-frequentation/" rel="alternate" type="text/html"/>
     <id>https://horlogerie.uk/saisonnier/watches-wonders-2022-geneve-record-de-frequentation/</id>
-    <published>2022-05-10</published>
-    <updated>2022-05-10</updated>
+    <published>2022-11-08</published>
+    <updated>2022-11-08</updated>
     <summary>Du 30 mars au 5 avril 2022, le salon Watches &amp; Wonders Geneva a retrouvé Palexpo pour la première édition en présentiel sous ce nom. Avec 22 000 visiteurs et 38 maisons exposantes, ce retour après deux années de pandémie a posé les jalons d'un nouveau chapitre pour la haute horlogerie genevoise.</summary>
   </entry>
   <entry>
     <title>Tendances horlogères 2022 : durabilité, sobriété et montres dress en hausse</title>
     <link href="https://horlogerie.uk/saisonnier/tendances-horlogeres-2022-durabilite-sobriete-et-montres-dress-en-hausse/" rel="alternate" type="text/html"/>
     <id>https://horlogerie.uk/saisonnier/tendances-horlogeres-2022-durabilite-sobriete-et-montres-dress-en-hausse/</id>
-    <published>2022-05-05</published>
-    <updated>2022-05-05</updated>
+    <published>2022-11-03</published>
+    <updated>2022-11-03</updated>
     <summary>Panorama des grandes tendances horlogères de 2022 : durabilité avec l'acier recyclé et le silicium, sobriété des cadrans épurés, retour en force des montres dress élégantes, et maturité des micro-marques indépendantes. Une année qui dessine l'horlogerie de demain.</summary>
   </entry>
   <entry>
     <title>Noël 2022 : Top 10 montres de l'année et sélection de fêtes</title>
     <link href="https://horlogerie.uk/saisonnier/noel-2022-top-10-montres-de-l-annee-et-selection-de-fetes/" rel="alternate" type="text/html"/>
     <id>https://horlogerie.uk/saisonnier/noel-2022-top-10-montres-de-l-annee-et-selection-de-fetes/</id>
-    <published>2022-05-04</published>
-    <updated>2022-05-04</updated>
+    <published>2022-11-02</published>
+    <updated>2022-11-02</updated>
     <summary>Bilan horloger 2022 avec des exportations record à 22,3 milliards de francs suisses : Top 10 des montres de l'année (MoonSwatch, GMT Sprite, Grand Seiko Snowflake...) suivi d'une sélection cadeaux Noël de la Tissot PRX à la Jaeger-LeCoultre Reverso. L'année horlogère dont on parlera encore longtemps.</summary>
   </entry>
   <entry>
     <title>Fête des pères 2022 : montres à offrir de 150 à 15 000 euros</title>
     <link href="https://horlogerie.uk/saisonnier/fete-des-peres-2022-montres-a-offrir-de-150-a-15-000-euros/" rel="alternate" type="text/html"/>
     <id>https://horlogerie.uk/saisonnier/fete-des-peres-2022-montres-a-offrir-de-150-a-15-000-euros/</id>
-    <published>2022-05-03</published>
-    <updated>2022-05-03</updated>
+    <published>2022-11-01</published>
+    <updated>2022-11-01</updated>
     <summary>Guide d'achat pour la fête des pères 2022 : de la Seiko Presage à la Rolex Oyster Perpetual, toutes les meilleures montres à offrir de 150 à 15 000 euros, avec une section dédiée à l'achat d'occasion certifié. Pour chaque père, la montre qui lui ressemble.</summary>
   </entry>
   <entry>
     <title>Entretenir sa montre mécanique : révision, stockage et gestes quotidiens</title>
     <link href="https://horlogerie.uk/dossier/entretenir-sa-montre-mecanique-revision-stockage-et-gestes-quotidiens/" rel="alternate" type="text/html"/>
     <id>https://horlogerie.uk/dossier/entretenir-sa-montre-mecanique-revision-stockage-et-gestes-quotidiens/</id>
-    <published>2022-02-08</published>
+    <published>2022-08-09</published>
     <updated>2022-02-08</updated>
     <summary>Guide pratique pour prendre soin de sa montre mécanique : révision périodique, stockage optimal, gestes quotidiens. Une montre bien entretenue traverse les générations — voici comment y parvenir.</summary>
   </entry>
@@ -69,7 +101,7 @@
     <title>Montres de plongée : de la Submariner à la Pelagos, guide de l'univers sous-marin</title>
     <link href="https://horlogerie.uk/dossier/montres-de-plongee-de-la-submariner-a-la-pelagos-guide-de-l-univers-sous-marin/" rel="alternate" type="text/html"/>
     <id>https://horlogerie.uk/dossier/montres-de-plongee-de-la-submariner-a-la-pelagos-guide-de-l-univers-sous-marin/</id>
-    <published>2022-02-08</published>
+    <published>2022-08-09</published>
     <updated>2022-02-08</updated>
     <summary>De la Blancpain Fifty Fathoms de 1953 à la Tudor Pelagos en passant par la Rolex Submariner, les montres de plongée forment le segment le plus emblématique de l'horlogerie sport. Guide complet : origines, normes ISO, grands modèles et critères de choix.</summary>
   </entry>
@@ -77,7 +109,7 @@
     <title>Les micro-marques horlogères : l'indépendance créative accessible</title>
     <link href="https://horlogerie.uk/dossier/les-micro-marques-horlogeres-l-independance-creative-accessible/" rel="alternate" type="text/html"/>
     <id>https://horlogerie.uk/dossier/les-micro-marques-horlogeres-l-independance-creative-accessible/</id>
-    <published>2022-02-08</published>
+    <published>2022-08-09</published>
     <updated>2022-02-08</updated>
     <summary>En marge des grandes maisons, les micro-marques horlogères proposent des montres originales, bien construites et accessibles. De Baltic à Yema en passant par Brew et Farer, exploration d'un écosystème créatif en plein essor où la vente directe révolutionne les prix.</summary>
   </entry>
@@ -85,7 +117,7 @@
     <title>Montres et cinéma : de James Bond à Cartier, quand l'horlogerie fait son cinéma</title>
     <link href="https://horlogerie.uk/dossier/montres-et-cinema-de-james-bond-a-cartier-quand-l-horlogerie-fait-son-cinema/" rel="alternate" type="text/html"/>
     <id>https://horlogerie.uk/dossier/montres-et-cinema-de-james-bond-a-cartier-quand-l-horlogerie-fait-son-cinema/</id>
-    <published>2022-02-01</published>
+    <published>2022-08-02</published>
     <updated>2022-02-01</updated>
     <summary>De l'Omega Seamaster de James Bond à la Cartier Tank de Jacqueline Kennedy, les montres ont conquis le grand écran autant que nos poignets. Un voyage entre horlogerie et septième art, du Submariner de Connery à la Daytona légendaire de Paul Newman — vendue 17,75 millions de dollars.</summary>
   </entry>
@@ -93,7 +125,7 @@
     <title>Certifié pre-owned : Rolex CPO, Bucherer et la révolution de l'occasion garantie</title>
     <link href="https://horlogerie.uk/dossier/certifie-pre-owned-rolex-cpo-bucherer-et-la-revolution-de-l-occasion-garantie/" rel="alternate" type="text/html"/>
     <id>https://horlogerie.uk/dossier/certifie-pre-owned-rolex-cpo-bucherer-et-la-revolution-de-l-occasion-garantie/</id>
-    <published>2022-02-01</published>
+    <published>2022-08-02</published>
     <updated>2022-02-01</updated>
     <summary>Depuis décembre 2022, Rolex propose un programme Certified Pre-Owned exclusivement chez Bucherer. Deux ans plus tard, le premier lounge CPO exclusif a ouvert à Genève et le marché gris montre les premiers signes de normalisation. Tour d'horizon d'une révolution discrète mais profonde.</summary>
   </entry>
@@ -101,7 +133,7 @@
     <title>Watches &amp; Wonders 2024 : Genève du 9 au 15 avril, toutes les nouveautés</title>
     <link href="https://horlogerie.uk/saisonnier/watches-wonders-2024-geneve-du-9-au-15-avril-toutes-les-nouveautes/" rel="alternate" type="text/html"/>
     <id>https://horlogerie.uk/saisonnier/watches-wonders-2024-geneve-du-9-au-15-avril-toutes-les-nouveautes/</id>
-    <published>2022-02-01</published>
+    <published>2022-08-02</published>
     <updated>2022-02-01</updated>
     <summary>Watches &amp; Wonders 2024 a réuni cinquante maisons horlogères à Genève du 9 au 15 avril. Au programme : la Rolex 1908 en platine guilloché, une GMT-Master II noir-gris, une Deepsea full gold, le Nautilus 5980 en or blanc — et la surprise de la Daytona Le Mans discontinuée en moins d'un an.</summary>
   </entry>
@@ -109,7 +141,7 @@
     <title>Tendances horlogères 2024 : matériaux précieux et cadrans colorés</title>
     <link href="https://horlogerie.uk/saisonnier/tendances-horlogeres-2024-materiaux-precieux-et-cadrans-colores/" rel="alternate" type="text/html"/>
     <id>https://horlogerie.uk/saisonnier/tendances-horlogeres-2024-materiaux-precieux-et-cadrans-colores/</id>
-    <published>2021-11-09</published>
+    <published>2022-05-10</published>
     <updated>2021-11-09</updated>
     <summary>L'horlogerie 2024 mise sur la couleur et les matériaux précieux : cadrans verts (+9,5 %), champagne et or en hausse, boîtiers rectangulaires qui reviennent en force. De la Rolex 1908 en platine guilloché au GMT-Master II noir-gris, panorama des grandes tendances à surveiller.</summary>
   </entry>
@@ -117,7 +149,7 @@
     <title>Noël horloger 2023 : les montres qui font rêver sous le sapin</title>
     <link href="https://horlogerie.uk/saisonnier/noel-horloger-2023-les-montres-qui-font-rever-sous-le-sapin/" rel="alternate" type="text/html"/>
     <id>https://horlogerie.uk/saisonnier/noel-horloger-2023-les-montres-qui-font-rever-sous-le-sapin/</id>
-    <published>2021-11-09</published>
+    <published>2022-05-10</published>
     <updated>2021-11-09</updated>
     <summary>Sélection approfondie de montres à offrir pour Noël 2023, organisée par univers : la montre d'initiation (Seiko Presage, Tissot Gentleman), la montre héritage (Tudor Black Bay 58, Longines Moonphase), la montre sport (Omega Planet Ocean, Breitling Navitimer) et les pièces du connaisseur. Plus les accessoires incontournables.</summary>
   </entry>
@@ -125,7 +157,7 @@
     <title>Noël 2023 : le Top 10 des montres de l'année et idées cadeaux</title>
     <link href="https://horlogerie.uk/saisonnier/noel-2023-le-top-10-des-montres-de-l-annee-et-idees-cadeaux/" rel="alternate" type="text/html"/>
     <id>https://horlogerie.uk/saisonnier/noel-2023-le-top-10-des-montres-de-l-annee-et-idees-cadeaux/</id>
-    <published>2021-11-09</published>
+    <published>2022-05-10</published>
     <updated>2021-11-09</updated>
     <summary>Bilan horloger 2023 : notre Top 10 des montres qui ont marqué l'année, de la Daytona 60e anniversaire au MoonSwatch Moonshine Gold. Plus une sélection de cadeaux pour tous les budgets, des accessoires NATO aux pièces de collection.</summary>
   </entry>
@@ -133,40 +165,8 @@
     <title>Fête des pères 2023 : quelle montre offrir selon le style et le budget</title>
     <link href="https://horlogerie.uk/saisonnier/fete-des-peres-2023-quelle-montre-offrir-selon-le-style-et-le-budget/" rel="alternate" type="text/html"/>
     <id>https://horlogerie.uk/saisonnier/fete-des-peres-2023-quelle-montre-offrir-selon-le-style-et-le-budget/</id>
-    <published>2021-11-02</published>
+    <published>2022-05-03</published>
     <updated>2021-11-02</updated>
     <summary>De 100 à 10 000 euros, notre sélection de montres pour la fête des pères 2023 couvre tous les budgets et tous les styles : Seiko SKX007 et Orient Bambino pour débuter, Tudor Black Bay et Grand Seiko pour les confirmés, Omega et Rolex pour les cadeaux d'une vie. Elise V. guide vos choix avec précision.</summary>
-  </entry>
-  <entry>
-    <title>Watches &amp; Wonders 2023 : le salon s'ouvre au public pour la première fois</title>
-    <link href="https://horlogerie.uk/saisonnier/watches-wonders-2023-le-salon-s-ouvre-au-public-pour-la-premiere-fois/" rel="alternate" type="text/html"/>
-    <id>https://horlogerie.uk/saisonnier/watches-wonders-2023-le-salon-s-ouvre-au-public-pour-la-premiere-fois/</id>
-    <published>2021-11-02</published>
-    <updated>2021-11-02</updated>
-    <summary>Du 27 mars au 2 avril 2023, Watches &amp; Wonders Genève a franchi un cap historique en ouvrant ses portes au grand public pour la première fois. 48 maisons, cinq nouveautés Rolex majeures, et une ville entière transformée en village horloger : Karim A. raconte cette édition charnière qui a changé les règles du jeu.</summary>
-  </entry>
-  <entry>
-    <title>Tendances horlogères 2023 : l'année du titane et des cadrans texturés</title>
-    <link href="https://horlogerie.uk/saisonnier/tendances-horlogeres-2023-l-annee-du-titane-et-des-cadrans-textures/" rel="alternate" type="text/html"/>
-    <id>https://horlogerie.uk/saisonnier/tendances-horlogeres-2023-l-annee-du-titane-et-des-cadrans-textures/</id>
-    <published>2021-11-02</published>
-    <updated>2021-11-02</updated>
-    <summary>2023 marque un tournant décisif pour l'horlogerie : le titane s'impose avec le Rolex Yacht-Master 42 en RLX Titanium, les cadrans guilloché retrouvent leur splendeur avec la Perpetual 1908, et le Daytona célèbre 60 ans avec un nouveau calibre 4131. Jean-Marc B. décrypte les grandes tendances de cette année charnière.</summary>
-  </entry>
-  <entry>
-    <title>Royal Oak Offshore : 30 ans de la bête — rétrospective et éditions anniversaire</title>
-    <link href="https://horlogerie.uk/dossier/royal-oak-offshore-30-ans-de-la-bete-retrospective-et-editions-anniversaire/" rel="alternate" type="text/html"/>
-    <id>https://horlogerie.uk/dossier/royal-oak-offshore-30-ans-de-la-bete-retrospective-et-editions-anniversaire/</id>
-    <published>2021-10-26</published>
-    <updated>2021-10-26</updated>
-    <summary>Lancée en 1993 à Bâle dans une indifférence polie, la Royal Oak Offshore d'Audemars Piguet est devenue l'une des montres les plus iconiques et les plus copiées du monde. Trois décennies après, retour sur l'histoire d'un monstre qui a inventé la montre sport-luxe surdimensionnée.</summary>
-  </entry>
-  <entry>
-    <title>L'histoire de la Daytona : 60 ans d'une icône du chronographe</title>
-    <link href="https://horlogerie.uk/dossier/l-histoire-de-la-daytona-60-ans-d-une-icone-du-chronographe/" rel="alternate" type="text/html"/>
-    <id>https://horlogerie.uk/dossier/l-histoire-de-la-daytona-60-ans-d-une-icone-du-chronographe/</id>
-    <published>2021-10-26</published>
-    <updated>2021-10-26</updated>
-    <summary>En 1963, la Rolex Cosmograph Daytona peine à trouver preneur. Soixante ans plus tard, elle est la montre la plus spéculée du monde — son cadran « Paul Newman » a atteint 17,8 millions de dollars en 2017. Retour sur la trajectoire stupéfiante d'un échec commercial devenu graal absolu.</summary>
   </entry>
 </feed>
