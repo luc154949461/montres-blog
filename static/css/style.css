@@ -1164,3 +1164,86 @@ a:focus-visible,
     margin-bottom: 1.5rem;
 }
 .search-link { font-size: 0.9rem; }
+
+/* ========== POI links (Proposition B — Points d'Intérêt) ========== */
+.poi-link {
+    color: inherit;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-decoration-color: var(--c-accent);
+    text-underline-offset: 3px;
+    font-weight: 500;
+    transition: color var(--transition);
+}
+.poi-link:hover {
+    color: var(--c-accent);
+    text-decoration-style: solid;
+}
+
+/* ========== Tags section (Proposition A) ========== */
+.article-tags-section {
+    display: flex;
+    align-items: baseline;
+    gap: 0.75rem;
+    margin-top: 2.5rem;
+    padding-top: 1.5rem;
+    border-top: 1px dashed var(--c-border);
+}
+.tags-label {
+    font-family: var(--font-mono);
+    font-size: 0.7rem;
+    color: var(--c-text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+.chip-tag {
+    padding: 0.25rem 0.75rem;
+    font-size: 0.78rem;
+    background: var(--c-accent-light);
+    border: 1px solid var(--c-border);
+    color: var(--c-accent);
+    font-family: var(--font-mono);
+    letter-spacing: 0.03em;
+}
+.chip-tag:hover {
+    background: var(--c-accent);
+    color: white;
+    border-color: var(--c-accent);
+}
+.chip-xs {
+    padding: 0.1rem 0.45rem;
+    font-size: 0.67rem;
+}
+.chip-shared {
+    background: var(--c-accent-light);
+    border-color: var(--c-accent);
+    color: var(--c-accent);
+}
+
+/* ========== Related articles — enhanced ========== */
+.related-cat {
+    font-family: var(--font-mono);
+    font-size: 0.68rem;
+    color: var(--c-text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-bottom: 0.3rem;
+}
+.related-shared-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.3rem;
+    margin-top: 0.5rem;
+}
+
+/* ========== POI page header ========== */
+.page-header-desc {
+    font-size: 0.95rem;
+    color: var(--c-hero-text);
+    opacity: 0.8;
+    max-width: 600px;
+    margin-top: 0.5rem;
+    line-height: 1.6;
+}
