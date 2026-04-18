@@ -26,7 +26,7 @@
 </head>
 <body>
     <header>
-        <div class="header-inner">
+        <div class="nav-inner">
             <a href="/" class="logo">Horlogerie : Guides &amp; Passions</a>
         </div>
         <nav class="header-nav">
@@ -53,15 +53,15 @@
                 <li><a href="/tendances/">Tendances</a></li>
                 
                 <li><a href="/series/">Series</a></li>
-                <li><a href="/recherche/" class="search-link" title="Rechercher">Recherche</a></li>
-                <li><a href="/feed.xml" class="rss-link" title="Flux RSS">RSS</a></li>
+                <li><a href="/recherche/" class="search-nav" title="Rechercher">Recherche</a></li>
+                <li><a href="/feed.xml" class="rss-nav" title="Flux RSS">RSS</a></li>
             </ul>
         </nav>
     </header>
 
     <main>
         
-        <nav class="breadcrumb" aria-label="Fil d'Ariane">
+        <nav class="trail" aria-label="Fil d'Ariane">
             
             
             <a href="/">Horlogerie : Guides &amp; Passions</a>
@@ -76,14 +76,14 @@
         
 
         
-<header class="page-header">
+<header class="page-top">
     <h1>Recherche</h1>
 </header>
 
 <div class="search-page">
     <input type="search" id="search-input" placeholder="Rechercher un article..." autofocus autocomplete="off">
     <p id="search-count" class="search-count"></p>
-    <div id="search-results" class="card-grid"></div>
+    <div id="search-results" class="post-grid"></div>
 </div>
 
 <script src="/static/js/fuse.min.js"></script>
@@ -92,13 +92,13 @@
     </main>
 
     <footer>
-        <div class="footer-inner">
-            <div class="footer-col">
-                <p class="footer-brand">Horlogerie : Guides &amp; Passions</p>
-                <p class="footer-tagline">Guides, histoires et passions de l&#39;horlogerie : montres, mecanismes, maitres horlogers</p>
+        <div class="pied-wrap">
+            <div class="pied-groupe">
+                <p class="pied-marque">Horlogerie : Guides &amp; Passions</p>
+                <p class="pied-tagline">Guides, histoires et passions de l&#39;horlogerie : montres, mecanismes, maitres horlogers</p>
             </div>
-            <div class="footer-col">
-                <p class="footer-heading">Navigation</p>
+            <div class="pied-groupe">
+                <p class="pied-heading">Navigation</p>
                 <ul>
                     <li><a href="/">Accueil</a></li>
                     
@@ -125,15 +125,15 @@
                     <li><a href="/series/">Series</a></li>
                 </ul>
             </div>
-            <div class="footer-col">
-                <p class="footer-heading">Ressources</p>
+            <div class="pied-groupe">
+                <p class="pied-heading">Ressources</p>
                 <ul>
                     <li><a href="/sitemap.xml">Plan du site</a></li>
                     <li><a href="/feed.xml">Flux RSS</a></li>
                 </ul>
             </div>
         </div>
-        <div class="footer-bottom">
+        <div class="pied-bottom">
             <p>Pas de script externe &middot; Pas de publicité &middot; horlogerie.uk &copy; 2017</p>
         </div>
     </footer>
